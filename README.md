@@ -24,4 +24,5 @@ The goal is to strengthen my Python fundamentals, prepare for more advanced topi
 
 ## 👨‍💻 Author
 
-Eliut Piña
+- Eliut Piña
+
