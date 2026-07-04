@@ -10,7 +10,7 @@ The goal is to strengthen my Python fundamentals, prepare for more advanced topi
 ## 🛠️ Technologies
 
 - Python 3
-- Visual Studio Code
+- VS Code
 - Git
 - GitHub
 - Fedora linux 44
