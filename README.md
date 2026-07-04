@@ -1,2 +1,3 @@
-# python-30-days
-Learning Python through the 30 Days of Python challenge.
+# 🐍 30 Days of Python
+
+A repository documenting my journey through the 30 Days of Python course.
