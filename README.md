@@ -7,3 +7,9 @@ This repository contains my solutions, exercises, and notes while completing the
 
 The goal is to strengthen my Python fundamentals, prepare for more advanced topics such as Object-Oriented Programming, and prepare for the **Python certification**.
 
+## 🛠️ Technologies
+
+- Python 3
+- Visual Studio Code
+- Git
+- GitHub
