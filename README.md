@@ -13,6 +13,7 @@ The goal is to strengthen my Python fundamentals, prepare for more advanced topi
 - Visual Studio Code
 - Git
 - GitHub
+- Fdeora linux 44
 
 ## 🎯 Goals
 
