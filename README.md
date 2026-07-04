@@ -13,3 +13,14 @@ The goal is to strengthen my Python fundamentals, prepare for more advanced topi
 - Visual Studio Code
 - Git
 - GitHub
+
+## 🎯 Goals
+
+- Learn Python fundamentals
+- Write clean and readable code
+- Practice Git and GitHub
+- Build a strong programming foundation
+
+## 👨‍💻 Author
+
+Eliut Piña
