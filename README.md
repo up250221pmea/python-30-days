@@ -46,9 +46,9 @@ The goal is to strengthen my Python fundamentals, prepare for more advanced topi
 | Day 9 | Conditionals | ✅ |
 | Day 10 | Loops | ✅ |
 | Day 11 | Functions | ✅ |
-| Day 13 | List Comprehensions | ⬜ |
-| Day 15 | Python Error Types | ⬜ |
-| Day 17 | Exception Handling | ⬜ |
+| Day 12 | List Comprehensions | ⬜ |
+| Day 13 | Python Error Types | ⬜ |
+| Day 14 | Exception Handling | ⬜ |
 
 ### Progress
 
