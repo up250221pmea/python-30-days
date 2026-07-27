@@ -29,19 +29,31 @@ The goal is to strengthen my Python fundamentals, prepare for more advanced topi
 
 - Eliut Piña
 
-## 📅 Progress
+## 🎓 Python Certification Progress
 
-| Day   | Status |
-|------ |--------|
-| Day 1   | ✅ |
-| Day 2   | ✅ |
-| Day 3   | ✅ |
-| Day 4   | ✅ |
-| Day 5   | ✅ |
-| Day 6   | ✅ |
-| Day 7   | ✅ |
-| Day 8   | ✅ |
-| Day 9   | ✅ |
-| Day 10  | ✅ |
-| Day 11  | ✅ |
-| Day 12  | ⏳ |
+> Learning path focused on preparing for the **PCEP — Certified Entry-Level Python Programmer** certification.
+
+| Day | Topic | Status |
+|:---:|---|:---:|
+| Day 1 | Introduction | ✅ |
+| Day 2 | Variables and Built-in Functions | ✅ |
+| Day 3 | Operators | ✅ |
+| Day 4 | Strings | ✅ |
+| Day 5 | Lists | ✅ |
+| Day 6 | Tuples | ✅ |
+| Day 7 | Sets | ✅ |
+| Day 8 | Dictionaries | ✅ |
+| Day 9 | Conditionals | ✅ |
+| Day 10 | Loops | ✅ |
+| Day 11 | Functions | ✅ |
+| Day 13 | List Comprehensions | ⬜ |
+| Day 15 | Python Error Types | ⬜ |
+| Day 17 | Exception Handling | ⬜ |
+
+### Progress
+
+**11 of 14 topics completed**
+
+`████████████████░░░░ 79%`
+
+✅ Completed · ⏳ In progress · ⬜ Pending
