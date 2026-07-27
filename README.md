@@ -57,3 +57,60 @@ The goal is to strengthen my Python fundamentals, prepare for more advanced topi
 `████████████████░░░░ 79%`
 
 ✅ Completed · ⏳ In progress · ⬜ Pending
+
+<!--
+
+## 🧱 Object-Oriented Programming Learning Path
+
+> Self-learning path focused on preparing for Object-Oriented Programming with Python, Java, and C#.
+
+### 📦 Section 1 — Code Organization
+
+1. Repository Day 12 — Modules
+2. Extra Day 1 — Debugging and Reading Errors
+3. Extra Day 2 — Variable Scope
+4. Extra Day 3 — Mutability and References
+5. Extra Day 4 — Project Structure
+6. Extra Day 5 — Function Best Practices
+7. Extra Day 6 — Type Hints
+8. Extra Day 7 — Basic Testing
+
+### 🧠 Section 2 — Design and Problem Solving
+
+9. Extra Day 8 — Problem Analysis and Solving
+10. Extra Day 9 — Pseudocode and Design Before Coding
+11. Extra Day 10 — Separation of Responsibilities
+
+### 🧱 Section 3 — OOP Fundamentals
+
+12. Repository Day 21 — Classes and Objects
+13. Extra Day 11 — Object Modeling
+14. Extra Day 12 — Encapsulation
+15. Extra Day 13 — Inheritance in Depth
+16. Extra Day 14 — Composition
+17. Extra Day 15 — Polymorphism
+18. Extra Day 16 — Abstract Classes and Interfaces
+
+### 🧩 Section 4 — Software Design
+
+19. Extra Day 17 — Good Design Principles
+20. Extra Day 18 — High Cohesion and Low Coupling
+21. Extra Day 19 — Introduction to SOLID
+
+### 💾 Section 5 — Files and Data Storage
+
+22. Repository Day 19 — File Handling
+23. Repository Day 19 — JSON
+24. Extra Day 20 — Saving and Loading Objects
+25. Extra Day 21 — Separating Logic from Storage
+
+### 🛠️ Section 6 — Complementary Topics
+
+26. Repository Day 14 — Lambda Functions
+27. Repository Day 14 — `map()`, `filter()`, and `reduce()`
+28. Repository Day 14 — Decorators
+29. Extra Day 22 — Iterators and Generators
+30. Repository Day 18 — Regular Expressions
+31. Repository Day 16 — DateTime
+
+-->
