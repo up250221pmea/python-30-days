@@ -92,6 +92,6 @@ The goal of this section is not only to learn Python classes, but also to improv
 
 **2 of 16 topics completed**
 
-`██░░░░░░░░░░░░░░░░░░░░ 6%`
+`███░░░░░░░░░░░░░░░░░ 13%`
 
 ⬜ Pending · ⏳ In progress · ✅ Completed
