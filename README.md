@@ -72,7 +72,7 @@ The goal of this section is not only to learn Python classes, but also to improv
 |   Day  | Topic                                | Status |
 | :----: | ------------------------------------ | :----: |
 | Day 15 | Modules and Imports                  |   ✅   |
-| Day 16 | Scope and Variable Lifetime          |   ⬜   |
+| Day 16 | Scope and Variable Lifetime          |   ✅   |
 | Day 17 | Mutability and References            |   ⬜   |
 | Day 18 | File Handling                        |   ⬜   |
 | Day 19 | JSON and Data Persistence            |   ⬜   |
@@ -90,7 +90,7 @@ The goal of this section is not only to learn Python classes, but also to improv
 
 ### OOP Preparation Progress
 
-**1 of 16 topics completed**
+**2 of 16 topics completed**
 
 `██░░░░░░░░░░░░░░░░░░░░ 6%`
 
