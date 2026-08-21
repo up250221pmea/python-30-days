@@ -75,7 +75,7 @@ The goal of this section is not only to learn Python classes, but also to improv
 | Day 16 | Scope and Variable Lifetime          |   ✅   |
 | Day 17 | Mutability and References            |   ✅   |
 | Day 18 | File Handling                        |   ✅   |
-| Day 19 | JSON and Data Persistence            |   ⬜   |
+| Day 19 | JSON and Data Persistence            |   ✅   |
 | Day 20 | Code Organization and Clean Functions|   ⬜   |
 | Day 21 | Classes and Objects                  |   ⬜   |
 | Day 22 | Attributes and Methods               |   ⬜   |
@@ -90,8 +90,8 @@ The goal of this section is not only to learn Python classes, but also to improv
 
 ### OOP Preparation Progress
 
-**4 of 16 topics completed**
+**5 of 16 topics completed**
 
-`█████░░░░░░░░░░░░░░░ 25%`
+`██████░░░░░░░░░░░░░░ 30%`
 
 ⬜ Pending · ⏳ In progress · ✅ Completed
